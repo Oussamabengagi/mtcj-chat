@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MTCJ</string>
+    <string name="title_activity_main">MTCJ</string>
+    <string name="package_name">com.mtcj.app</string>
+    <string name="custom_url_scheme">com.mtcj.app</string>
+</resources>

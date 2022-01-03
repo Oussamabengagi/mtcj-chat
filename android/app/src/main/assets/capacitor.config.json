@@ -1,0 +1,6 @@
+{
+	"appId": "com.mtcj.app",
+	"appName": "MTCJ",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
